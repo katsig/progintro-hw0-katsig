@@ -1,1 +1,1 @@
-# -progintro-hw0-katsig
+# progintro-hw0-katsig
